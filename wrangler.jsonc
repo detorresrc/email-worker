@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "email-worker",
+	"name": "still-king-8530",
 	"main": "src/index.js",
 	"compatibility_date": "2026-01-31",
 	"observability": {
