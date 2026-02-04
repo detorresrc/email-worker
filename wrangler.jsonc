@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "still-king-8530",
+	"name": "delicate-hat-1153",
 	"main": "src/index.js",
 	"compatibility_date": "2026-01-31",
 	"observability": {
